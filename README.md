@@ -1,12 +1,13 @@
 # Hi, I'm Rishav Paul! 👋
 
-Software Engineer with expertise in Java, Distributed Systems, and Cloud Infrastructure.
+Technical Lead at HubSpot | Building AI Connectors Platform | Seattle, WA
 
 ## About Me
 
-- 💼 Software Engineer specializing in backend systems and distributed architecture
+- 💼 Technical Lead at HubSpot, leading the AI Connectors Platform
 - ☁️ Building on AWS and working with Kubernetes
-- 🔥 Go and Java developer with a focus on concurrency and performance
+- 🧠 Working on [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) servers
+- 🤖 All things agentic AI
 
 ## Featured Projects
 
@@ -19,6 +20,23 @@ Software Engineer with expertise in Java, Distributed Systems, and Cloud Infrast
 | [database-engineering](https://github.com/rishavpaul/database-engineering) | Database design and engineering work |
 | [EnvoyProxyWithExternalAuthServer](https://github.com/rishavpaul/EnvoyProxyWithExternalAuthServer) | Envoy proxy with external authentication |
 | [Generative-AI-with-LLM](https://github.com/rishavpaul/Generative-AI-with-LLM) | Generative AI and LLM experiments |
+
+## What I'm Working On
+
+### AI Connectors Platform @ HubSpot
+Built integrations connecting HubSpot to leading AI platforms:
+
+- [HubSpot Connector for ChatGPT](https://developers.hubspot.com/changelog/connect-your-hubspot-account-to-chatgpt)
+- [HubSpot Connector for Claude](https://developers.hubspot.com/changelog/hubspot-connector-for-claude)
+- [HubSpot CRM Connector for ChatGPT (Deep Research)](https://product.hubspot.com/blog/unlocking-deep-research-crm-connector-for-chatgpt) - Primary author
+
+Currently focused on MCP Server development and agent architectures.
+
+## Prior Work
+
+### Amazon
+- [Amazon Connect Wisdom](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-wisdom-chat-agents/) - Launched in 2023
+- Amazon Restaurants - Built and maintained the restaurant ordering platform
 
 ## Tech Stack
 
