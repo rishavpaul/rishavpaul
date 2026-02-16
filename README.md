@@ -23,6 +23,8 @@ Currently focused on MCP Server development and agent architectures.
 ## Prior Work
 
 ### Amazon
+- Built and maintained Tier 1 services for Alexa handling worldwide intent-to-agent routing traffic
+- Deep expertise building infrastructure on AWS: ECS, DynamoDB, Networking, S3, Kinesis
 - [Amazon Connect Wisdom](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-wisdom-chat-agents/) - Launched in 2023
 - Amazon Restaurants - Built and maintained the restaurant ordering platform
 
