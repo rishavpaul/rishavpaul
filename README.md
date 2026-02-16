@@ -5,7 +5,7 @@ Technical Lead at HubSpot | Building AI Connectors Platform | Seattle, WA
 ## About Me
 
 - 💼 Technical Lead at HubSpot, leading the AI Connectors Platform
-- ☁️ Building on AWS
+- ☁️ Product-minded engineer with expertise building infra on AWS
 - 🧠 Working on [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro) servers
 - 🤖 All things agentic AI
 
